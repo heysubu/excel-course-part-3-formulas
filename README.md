@@ -1203,7 +1203,6 @@ Since **IRR (20%) > Cost of Capital (8%)** → ✅ Accept the project.
 ## 📞 Contact
 
 - 🐙 **GitHub:** [heysubu](https://github.com/heysubu)
-- 📧 **Email:** suubhamghadge@gmail.com
 - 💼 **LinkedIn:** [Subham Ghadge](https://www.linkedin.com/in/subhamghadge/)
 
 ---
